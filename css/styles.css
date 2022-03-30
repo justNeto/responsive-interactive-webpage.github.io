@@ -2923,11 +2923,11 @@ section#contact .contact-wrapper .sending {
 }
 
 section#amenities ul#amul li.menuclosed {
-	background-color : blue;
+	background-color : #767b60;
 }
 
 section#amenities ul#amul li.active {
-	background-color : red;
+	background-color : #8ab2ab;
 	margin-left : 30px;
 }
 
